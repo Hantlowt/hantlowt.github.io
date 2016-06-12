@@ -232,6 +232,22 @@ hr {
   background: url("../images/gmail.png") 0 0 no-repeat;
 }
 
+#projects {
+  display: inline-block;
+  text-align: center;
+  margin: 0px;
+}
+
+.project {
+width: 320px;
+padding: 10px;
+background:-webkit-gradient(radial, 165 0, 0, 220 -257, 465, from(#000000), to(#2D4E28));
+border:groove 5px #000000;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+
 /* Links
    a, a:hover, a:visited
 */
