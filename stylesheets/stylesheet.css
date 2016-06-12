@@ -235,12 +235,14 @@ hr {
 #projects {
   display: inline-block;
   text-align: center;
-  margin: 0px;
+  margin: 10px;
 }
 
 .project {
-width: 320px;
+display: inline-block;
+width: 200px;
 padding: 10px;
+margin: 5px;
 background:-webkit-gradient(radial, 165 0, 0, 220 -257, 465, from(#000000), to(#2D4E28));
 border:groove 5px #000000;
 -moz-border-radius: 5px;
